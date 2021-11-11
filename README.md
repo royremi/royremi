@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @royremi
+- 👀 I’m interested in many things related to software engineering
+- 🌱 I’m currently learning php
+- 💞️ I’m looking to collaborate on anything!
+- 📫 How to reach me on linkedin : https://www.linkedin.com/in/remiroycsm/
